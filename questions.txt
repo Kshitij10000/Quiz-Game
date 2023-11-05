@@ -1,0 +1,105 @@
+Question 1: What is the capital of France?
+ Paris
+ London
+ Berlin
+ Madrid
+Answer: A
+
+Question 2: Which planet is known as the Red Planet?
+ Venus
+ Mars
+ jupiter
+ Saturn
+Answer: B
+
+Question 3: Which gas do plants absorb from the atmosphere during photosynthesis?
+  Oxygen
+  Carbon Dioxide
+  Nitrogen
+  Hydrogen
+Answer: B
+
+Question 4: Who wrote the play "Romeo and Juliet"?
+  Charles Dickens
+  William Shakespeare
+  Jane Austen
+  George Orwell
+Answer: B
+
+Question 5: What is the chemical symbol for gold?
+  Au
+  Ag
+  Fe
+  Cu
+Answer: A
+
+Question 6: What is the largest mammal in the world?
+  African Elephant
+  Blue Whale
+  Giraffe
+  Polar Bear
+Answer: B
+
+Question 7: Which planet is known as the "Morning Star" or "Evening Star" due to its bright appearance?
+  Mars
+  Venus
+  Saturn
+  Jupiter
+Answer: B
+
+Question 8: In which year did Christopher Columbus first arrive in the Americas?
+  1492
+  1520
+  1610
+  1776
+Answer: A
+
+Question 9: Who is the author of the novel "To Kill a Mockingbird"?
+  J.K. Rowling
+  Harper Lee
+  George Orwell
+  Mark Twain
+Answer: B
+
+Question 10: What is the chemical symbol for water?
+  H2O
+  CO2
+  O2
+  CH4
+Answer: A
+
+Question 11: What is the capital of Japan?
+  Shanghai
+  Beijing
+  Tokyo
+  Seoul
+Answer: C
+
+Question 12: Who painted the Mona Lisa?
+  Vincent van Gogh
+  Pablo Picasso
+  Leonardo da Vinci
+  Michelangelo
+Answer: C
+
+Question 13: Which gas makes up the majority of Earth's atmosphere?
+  Nitrogen
+  Oxygen
+  Carbon Dioxide
+  Hydrogen
+Answer: A
+
+Question 14: What is the largest planet in our solar system?
+  Venus
+  Earth
+  Jupiter
+  Mars
+Answer: C
+
+Question 15: Who wrote the novel "Pride and Prejudice"?
+  Emily Brontë
+  Jane Austen
+  Charlotte Brontë
+  Charles Dickens
+Answer: B
+
